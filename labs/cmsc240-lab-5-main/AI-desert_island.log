@@ -1,0 +1,864 @@
+Welcome to Desert Island!
+[LOCATION: beach]
+You are currently at the beach. The waves crash gently on the shore, and a warm breeze carries the scent of salt and palms.
+
+Shipwrecked and alone, you must gather resources from the island to build a raft and escape.
+
+You notice a large *palm leaf* lying nearby. It might be useful.
+
+What do you want to do? (type 'help' for a list of commands): 
+%% %% [GAME START]
+%% use wood
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use boat
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use wood
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get wood
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get wood
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% show map
+-- MAP --
+-> [Beach] (*)
+   |
+   [Jungle]
+   |
+      [Cave]
+   |
+   [Volcano]
+What do you want to do next? (type 'help' for a list of commands)
+%% goto cave
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use boat
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% help
+Available commands:
+- help
+- show inventory
+- show map
+- goto jungle
+- goto volcano
+- get palm leaf
+What do you want to do next? (type 'help' for a list of commands)
+%% goto jungle
+[LOCATION: jungle]
+You are currently at the jungle. The dense foliage is alive with the sounds of exotic birds and insects.
+
+You notice some sturdy *wood* lying on the ground. It might be useful.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get wood
+wood added to inventory. 
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use wood
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get rope
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get boat
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% show map
+-- MAP --
+   [Beach]
+   |
+-> [Jungle] (*)
+   |
+      [Cave]
+   |
+   [Volcano]
+What do you want to do next? (type 'help' for a list of commands)
+%% get palm leaf
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto beach
+[LOCATION: beach]
+You are currently at the beach. The waves crash gently on the shore, and a warm breeze carries the scent of salt and palms.
+
+You notice a large *palm leaf* lying nearby. It might be useful.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use boat
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use stone
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto beach
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get palm leaf
+palm leaf added to inventory. 
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use boat
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% show map
+-- MAP --
+-> [Beach] (*)
+   |
+   [Jungle]
+   |
+      [Cave]
+   |
+   [Volcano]
+What do you want to do next? (type 'help' for a list of commands)
+%% get palm leaf
+[INVALID COMMAND] You already have palm leaf in your inventory. 
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get palm leaf
+[INVALID COMMAND] You already have palm leaf in your inventory. 
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get boat
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto beach
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get stone
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use boat
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% show inventory
+Inventory: [wood, palm leaf, ]
+What do you want to do next? (type 'help' for a list of commands)
+%% goto volcano
+[LOCATION: volcano]
+You are currently at the volcano. The ground trembles slightly beneath your feet.
+
+You notice some sharp *stone* scattered around. It might be useful.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% show map
+-- MAP --
+   [Beach]
+   |
+   [Jungle]
+   |
+      [Cave]
+   |
+-> [Volcano] (*)
+What do you want to do next? (type 'help' for a list of commands)
+%% show inventory
+Inventory: [wood, palm leaf, ]
+What do you want to do next? (type 'help' for a list of commands)
+%% get wood
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto jungle
+[LOCATION: jungle]
+You are currently at the jungle. The dense foliage is alive with the sounds of exotic birds and insects.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto jungle
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto cave
+[LOCATION: cave]
+You are currently at the cave. The air is cool and damp, and you can hear the distant sound of dripping water.
+
+You notice a coil of *rope* hanging from the cave wall. It might be useful.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto beach
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use stone
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get stone
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get rope
+rope added to inventory. 
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use boat
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto beach
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% show inventory
+Inventory: [wood, palm leaf, rope, ]
+What do you want to do next? (type 'help' for a list of commands)
+%% help
+Available commands:
+- help
+- show inventory
+- show map
+- goto jungle
+What do you want to do next? (type 'help' for a list of commands)
+%% get boat
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% show map
+-- MAP --
+   [Beach]
+   |
+   [Jungle]
+   |
+   -> [Cave] (*)
+   |
+   [Volcano]
+What do you want to do next? (type 'help' for a list of commands)
+%% show map
+-- MAP --
+   [Beach]
+   |
+   [Jungle]
+   |
+   -> [Cave] (*)
+   |
+   [Volcano]
+What do you want to do next? (type 'help' for a list of commands)
+%% goto cave
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto volcano
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get boat
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get palm leaf
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% show map
+-- MAP --
+   [Beach]
+   |
+   [Jungle]
+   |
+   -> [Cave] (*)
+   |
+   [Volcano]
+What do you want to do next? (type 'help' for a list of commands)
+%% use boat
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use boat
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use stone
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto volcano
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use boat
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use stone
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% show map
+-- MAP --
+   [Beach]
+   |
+   [Jungle]
+   |
+   -> [Cave] (*)
+   |
+   [Volcano]
+What do you want to do next? (type 'help' for a list of commands)
+%% get stone
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% show map
+-- MAP --
+   [Beach]
+   |
+   [Jungle]
+   |
+   -> [Cave] (*)
+   |
+   [Volcano]
+What do you want to do next? (type 'help' for a list of commands)
+%% get boat
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto beach
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get boat
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get wood
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use stone
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto jungle
+[LOCATION: jungle]
+You are currently at the jungle. The dense foliage is alive with the sounds of exotic birds and insects.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto volcano
+[LOCATION: volcano]
+You are currently at the volcano. The ground trembles slightly beneath your feet.
+
+You notice some sharp *stone* scattered around. It might be useful.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto cave
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto volcano
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use boat
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% show inventory
+Inventory: [wood, palm leaf, rope, ]
+What do you want to do next? (type 'help' for a list of commands)
+%% use stone
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto jungle
+[LOCATION: jungle]
+You are currently at the jungle. The dense foliage is alive with the sounds of exotic birds and insects.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get palm leaf
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto jungle
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use stone
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use boat
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get palm leaf
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto beach
+[LOCATION: beach]
+You are currently at the beach. The waves crash gently on the shore, and a warm breeze carries the scent of salt and palms.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto jungle
+[LOCATION: jungle]
+You are currently at the jungle. The dense foliage is alive with the sounds of exotic birds and insects.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% help
+Available commands:
+- help
+- show inventory
+- show map
+- goto beach
+- goto cave
+- goto volcano
+What do you want to do next? (type 'help' for a list of commands)
+%% use boat
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get stone
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use palm leaf
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto volcano
+[LOCATION: volcano]
+You are currently at the volcano. The ground trembles slightly beneath your feet.
+
+You notice some sharp *stone* scattered around. It might be useful.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto volcano
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get boat
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto jungle
+[LOCATION: jungle]
+You are currently at the jungle. The dense foliage is alive with the sounds of exotic birds and insects.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto volcano
+[LOCATION: volcano]
+You are currently at the volcano. The ground trembles slightly beneath your feet.
+
+You notice some sharp *stone* scattered around. It might be useful.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% help
+Available commands:
+- help
+- show inventory
+- show map
+- goto beach
+- goto jungle
+- get stone
+What do you want to do next? (type 'help' for a list of commands)
+%% get rope
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto cave
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto cave
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get stone
+stone added to inventory. 
+
+What do you want to do next? (type 'help' for a list of commands)
+%% show inventory
+Inventory: [wood, palm leaf, rope, stone, ]
+What do you want to do next? (type 'help' for a list of commands)
+%% get rope
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use wood
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get boat
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use rope
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% help
+Available commands:
+- help
+- show inventory
+- show map
+- goto beach
+- goto jungle
+What do you want to do next? (type 'help' for a list of commands)
+%% get palm leaf
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use wood
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% show inventory
+Inventory: [wood, palm leaf, rope, stone, ]
+What do you want to do next? (type 'help' for a list of commands)
+%% goto beach
+[LOCATION: beach]
+You are currently at the beach. The waves crash gently on the shore, and a warm breeze carries the scent of salt and palms.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use stone
+You use the stone to sharpen pieces of wood, making stronger parts for your raft.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get stone
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto jungle
+[LOCATION: jungle]
+You are currently at the jungle. The dense foliage is alive with the sounds of exotic birds and insects.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto beach
+[LOCATION: beach]
+You are currently at the beach. The waves crash gently on the shore, and a warm breeze carries the scent of salt and palms.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto beach
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto cave
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get rope
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use boat
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get rope
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get palm leaf
+[INVALID COMMAND] You already have palm leaf in your inventory. 
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use palm leaf
+You use the palm leaf to create a makeshift sail for your raft.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get wood
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use stone
+You use the stone to sharpen pieces of wood, making stronger parts for your raft.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto jungle
+[LOCATION: jungle]
+You are currently at the jungle. The dense foliage is alive with the sounds of exotic birds and insects.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% show map
+-- MAP --
+   [Beach]
+   |
+-> [Jungle] (*)
+   |
+      [Cave]
+   |
+   [Volcano]
+What do you want to do next? (type 'help' for a list of commands)
+%% use stone
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% show inventory
+Inventory: [wood, palm leaf, rope, stone, ]
+What do you want to do next? (type 'help' for a list of commands)
+%% goto beach
+[LOCATION: beach]
+You are currently at the beach. The waves crash gently on the shore, and a warm breeze carries the scent of salt and palms.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% help
+Available commands:
+- help
+- show inventory
+- show map
+- goto jungle
+- goto volcano
+- get palm leaf
+- get boat
+- use palm leaf
+- use rope
+- use stone
+- use wood
+What do you want to do next? (type 'help' for a list of commands)
+%% get boat
+boat added to inventory. 
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use palm leaf
+You use the palm leaf to create a makeshift sail for your raft.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get wood
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use wood
+You use the wood to build the frame of your raft.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto jungle
+[LOCATION: jungle]
+You are currently at the jungle. The dense foliage is alive with the sounds of exotic birds and insects.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto beach
+[LOCATION: beach]
+You are currently at the beach. The waves crash gently on the shore, and a warm breeze carries the scent of salt and palms.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get stone
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% show map
+-- MAP --
+-> [Beach] (*)
+   |
+   [Jungle]
+   |
+      [Cave]
+   |
+   [Volcano]
+What do you want to do next? (type 'help' for a list of commands)
+%% goto cave
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% help
+Available commands:
+- help
+- show inventory
+- show map
+- goto jungle
+- goto volcano
+- get palm leaf
+- use boat
+- use palm leaf
+- use rope
+- use stone
+- use wood
+What do you want to do next? (type 'help' for a list of commands)
+%% help
+Available commands:
+- help
+- show inventory
+- show map
+- goto jungle
+- goto volcano
+- get palm leaf
+- use boat
+- use palm leaf
+- use rope
+- use stone
+- use wood
+What do you want to do next? (type 'help' for a list of commands)
+%% show inventory
+Inventory: [wood, palm leaf, rope, stone, boat, ]
+What do you want to do next? (type 'help' for a list of commands)
+%% show map
+-- MAP --
+-> [Beach] (*)
+   |
+   [Jungle]
+   |
+      [Cave]
+   |
+   [Volcano]
+What do you want to do next? (type 'help' for a list of commands)
+%% goto beach
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% show map
+-- MAP --
+-> [Beach] (*)
+   |
+   [Jungle]
+   |
+      [Cave]
+   |
+   [Volcano]
+What do you want to do next? (type 'help' for a list of commands)
+%% get palm leaf
+[INVALID COMMAND] You already have palm leaf in your inventory. 
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use stone
+You use the stone to sharpen pieces of wood, making stronger parts for your raft.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto jungle
+[LOCATION: jungle]
+You are currently at the jungle. The dense foliage is alive with the sounds of exotic birds and insects.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% show inventory
+Inventory: [wood, palm leaf, rope, stone, boat, ]
+What do you want to do next? (type 'help' for a list of commands)
+%% use rope
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get wood
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get wood
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get wood
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get rope
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use stone
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use rope
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get palm leaf
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto jungle
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use boat
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get stone
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get boat
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get boat
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% help
+Available commands:
+- help
+- show inventory
+- show map
+- goto beach
+- goto cave
+- goto volcano
+What do you want to do next? (type 'help' for a list of commands)
+%% use wood
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% get wood
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use rope
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use rope
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% help
+Available commands:
+- help
+- show inventory
+- show map
+- goto beach
+- goto cave
+- goto volcano
+What do you want to do next? (type 'help' for a list of commands)
+%% use stone
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use palm leaf
+[INVALID COMMAND] Type 'help' for a list of commands.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% goto beach
+[LOCATION: beach]
+You are currently at the beach. The waves crash gently on the shore, and a warm breeze carries the scent of salt and palms.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% help
+Available commands:
+- help
+- show inventory
+- show map
+- goto jungle
+- goto volcano
+- get palm leaf
+- use boat
+- use palm leaf
+- use rope
+- use stone
+- use wood
+What do you want to do next? (type 'help' for a list of commands)
+%% use wood
+You use the wood to build the frame of your raft.
+
+What do you want to do next? (type 'help' for a list of commands)
+%% use boat
+Congratulations! You have successfully escaped the island!
+
+
+%% [GAME FINISHED rc=0]

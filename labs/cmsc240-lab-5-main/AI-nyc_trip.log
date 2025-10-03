@@ -1,0 +1,1784 @@
+
+[LOCATION: Subway]
+
+You are in the subway, the sound of trains echoes in the tunnels.
+ You still need some things before you can go home though...
+
+%% get subway card
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Subway]
+
+You are in the subway, the sound of trains echoes in the tunnels.
+ You still need some things before you can go home though...
+
+%% goto Pizza Shop
+>>>> What do you do? 
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+ You see a box of *pizza* on the counter. Isn't that your order?
+
+%% use pizza
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+ You see a box of *pizza* on the counter. Isn't that your order?
+
+%% use coffee
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+ You see a box of *pizza* on the counter. Isn't that your order?
+
+%% get subway card
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+ You see a box of *pizza* on the counter. Isn't that your order?
+
+%% get coffee
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+ You see a box of *pizza* on the counter. Isn't that your order?
+
+%% goto Pizza Shop
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+ You see a box of *pizza* on the counter. Isn't that your order?
+
+%% get photo
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+ You see a box of *pizza* on the counter. Isn't that your order?
+
+%% get pizza
+>>>> What do you do? 
+-- You got [pizza] ! --
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% goto Pizza Shop
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% use coffee
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% goto Brooklyn Bridge
+>>>> What do you do? 
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ You see a tourist taking a *photo* of the bridge with a Polaroid camera. Maybe you can ask for one?
+
+%% show map
+>>>> What do you do? 
+--- Map ---
+ - [Subway] 
+ - [Bodega] 
+ - [Pizza Shop] 
+ - [Brooklyn Bridge] <-- You are here
+ - [Pier] 
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ You see a tourist taking a *photo* of the bridge with a Polaroid camera. Maybe you can ask for one?
+
+%% goto Bodega
+>>>> What do you do? 
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ You see a *coffee* machine nearby. It smells great!
+
+%% goto Pier
+>>>> What do you do? 
+[LOCATION: Pier]
+
+You are standing on a wooden pier overlooking the Hudson. Seagulls circle above. You see a *subway card* lying on the ground wedged in the planks.
+
+%% show inventory
+>>>> What do you do? 
+--- Inventory ---
+ - [pizza] 
+
+
+
+[LOCATION: Pier]
+
+You are standing on a wooden pier overlooking the Hudson. Seagulls circle above. You see a *subway card* lying on the ground wedged in the planks.
+
+%% get coffee
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pier]
+
+You are standing on a wooden pier overlooking the Hudson. Seagulls circle above. You see a *subway card* lying on the ground wedged in the planks.
+
+%% goto Subway
+>>>> What do you do? 
+[LOCATION: Subway]
+
+You are in the subway, the sound of trains echoes in the tunnels.
+ You still need some things before you can go home though...
+
+%% use subway card
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Subway]
+
+You are in the subway, the sound of trains echoes in the tunnels.
+ You still need some things before you can go home though...
+
+%% show map
+>>>> What do you do? 
+--- Map ---
+ - [Subway] <-- You are here
+ - [Bodega] 
+ - [Pizza Shop] 
+ - [Brooklyn Bridge] 
+ - [Pier] 
+
+[LOCATION: Subway]
+
+You are in the subway, the sound of trains echoes in the tunnels.
+ You still need some things before you can go home though...
+
+%% goto Subway
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Subway]
+
+You are in the subway, the sound of trains echoes in the tunnels.
+ You still need some things before you can go home though...
+
+%% goto Pizza Shop
+>>>> What do you do? 
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% use subway card
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% get coffee
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% goto Subway
+>>>> What do you do? 
+[LOCATION: Subway]
+
+You are in the subway, the sound of trains echoes in the tunnels.
+ You still need some things before you can go home though...
+
+%% show map
+>>>> What do you do? 
+--- Map ---
+ - [Subway] <-- You are here
+ - [Bodega] 
+ - [Pizza Shop] 
+ - [Brooklyn Bridge] 
+ - [Pier] 
+
+[LOCATION: Subway]
+
+You are in the subway, the sound of trains echoes in the tunnels.
+ You still need some things before you can go home though...
+
+%% use photo
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Subway]
+
+You are in the subway, the sound of trains echoes in the tunnels.
+ You still need some things before you can go home though...
+
+%% help
+>>>> What do you do? 
+--- Available commands --- 
+ - [show inventory]
+ - [show map]
+ - [help]
+ - [goto Bodega]
+ - [goto Pizza Shop]
+ - [goto Brooklyn Bridge]
+ - [goto Pier]
+ - [use pizza]
+
+
+
+[LOCATION: Subway]
+
+You are in the subway, the sound of trains echoes in the tunnels.
+ You still need some things before you can go home though...
+
+%% use pizza
+>>>> What do you do? 
+You can't eat that on the subway! That's bad manners!
+
+[LOCATION: Subway]
+
+You are in the subway, the sound of trains echoes in the tunnels.
+ You still need some things before you can go home though...
+
+%% show map
+>>>> What do you do? 
+--- Map ---
+ - [Subway] <-- You are here
+ - [Bodega] 
+ - [Pizza Shop] 
+ - [Brooklyn Bridge] 
+ - [Pier] 
+
+[LOCATION: Subway]
+
+You are in the subway, the sound of trains echoes in the tunnels.
+ You still need some things before you can go home though...
+
+%% use coffee
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Subway]
+
+You are in the subway, the sound of trains echoes in the tunnels.
+ You still need some things before you can go home though...
+
+%% use coffee
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Subway]
+
+You are in the subway, the sound of trains echoes in the tunnels.
+ You still need some things before you can go home though...
+
+%% get subway card
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Subway]
+
+You are in the subway, the sound of trains echoes in the tunnels.
+ You still need some things before you can go home though...
+
+%% goto Brooklyn Bridge
+>>>> What do you do? 
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ You see a tourist taking a *photo* of the bridge with a Polaroid camera. Maybe you can ask for one?
+
+%% goto Brooklyn Bridge
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ You see a tourist taking a *photo* of the bridge with a Polaroid camera. Maybe you can ask for one?
+
+%% use photo
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ You see a tourist taking a *photo* of the bridge with a Polaroid camera. Maybe you can ask for one?
+
+%% use pizza
+>>>> What do you do? 
+You trade a slice of pizza with the tourist for a photo of the bridge!
+
+-- You got [photo] ! --
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% get photo
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% use subway card
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% get photo
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% get subway card
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% help
+>>>> What do you do? 
+--- Available commands --- 
+ - [show inventory]
+ - [show map]
+ - [help]
+ - [goto Subway]
+ - [goto Bodega]
+ - [goto Pizza Shop]
+ - [goto Pier]
+ - [use pizza]
+ - [use photo]
+
+
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% use coffee
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% goto Brooklyn Bridge
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% get coffee
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% goto Bodega
+>>>> What do you do? 
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ You see a *coffee* machine nearby. It smells great!
+
+%% use photo
+>>>> What do you do? 
+You look at the photo. It's a nice picture of the bridge, but nothing special.
+
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ You see a *coffee* machine nearby. It smells great!
+
+%% goto Bodega
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ You see a *coffee* machine nearby. It smells great!
+
+%% goto Subway
+>>>> What do you do? 
+[LOCATION: Subway]
+
+You are in the subway, the sound of trains echoes in the tunnels.
+ You still need some things before you can go home though...
+
+%% goto Brooklyn Bridge
+>>>> What do you do? 
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% use subway card
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% use photo
+>>>> What do you do? 
+You look at the photo. It's a nice picture of the bridge, but nothing special.
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% use coffee
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% use subway card
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% use coffee
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% get subway card
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% goto Bodega
+>>>> What do you do? 
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ You see a *coffee* machine nearby. It smells great!
+
+%% use subway card
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ You see a *coffee* machine nearby. It smells great!
+
+%% show inventory
+>>>> What do you do? 
+--- Inventory ---
+ - [pizza] 
+ - [photo] 
+
+
+
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ You see a *coffee* machine nearby. It smells great!
+
+%% show inventory
+>>>> What do you do? 
+--- Inventory ---
+ - [pizza] 
+ - [photo] 
+
+
+
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ You see a *coffee* machine nearby. It smells great!
+
+%% goto Brooklyn Bridge
+>>>> What do you do? 
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% use coffee
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% goto Pizza Shop
+>>>> What do you do? 
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% goto Subway
+>>>> What do you do? 
+[LOCATION: Subway]
+
+You are in the subway, the sound of trains echoes in the tunnels.
+ You still need some things before you can go home though...
+
+%% show map
+>>>> What do you do? 
+--- Map ---
+ - [Subway] <-- You are here
+ - [Bodega] 
+ - [Pizza Shop] 
+ - [Brooklyn Bridge] 
+ - [Pier] 
+
+[LOCATION: Subway]
+
+You are in the subway, the sound of trains echoes in the tunnels.
+ You still need some things before you can go home though...
+
+%% goto Bodega
+>>>> What do you do? 
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ You see a *coffee* machine nearby. It smells great!
+
+%% use coffee
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ You see a *coffee* machine nearby. It smells great!
+
+%% goto Pizza Shop
+>>>> What do you do? 
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% use photo
+>>>> What do you do? 
+You look at the photo. It's a nice picture of the bridge, but nothing special.
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% get subway card
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% get photo
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% use photo
+>>>> What do you do? 
+You look at the photo. It's a nice picture of the bridge, but nothing special.
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% goto Bodega
+>>>> What do you do? 
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ You see a *coffee* machine nearby. It smells great!
+
+%% goto Bodega
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ You see a *coffee* machine nearby. It smells great!
+
+%% use pizza
+>>>> What do you do? 
+You eat the slice of pizza. Delicious! You feel satisfied.
+
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ You see a *coffee* machine nearby. It smells great!
+
+%% get subway card
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ You see a *coffee* machine nearby. It smells great!
+
+%% use coffee
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ You see a *coffee* machine nearby. It smells great!
+
+%% get subway card
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ You see a *coffee* machine nearby. It smells great!
+
+%% use photo
+>>>> What do you do? 
+You look at the photo. It's a nice picture of the bridge, but nothing special.
+
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ You see a *coffee* machine nearby. It smells great!
+
+%% goto Brooklyn Bridge
+>>>> What do you do? 
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% help
+>>>> What do you do? 
+--- Available commands --- 
+ - [show inventory]
+ - [show map]
+ - [help]
+ - [goto Subway]
+ - [goto Bodega]
+ - [goto Pizza Shop]
+ - [goto Pier]
+ - [use pizza]
+ - [use photo]
+
+
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% get coffee
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% show map
+>>>> What do you do? 
+--- Map ---
+ - [Subway] 
+ - [Bodega] 
+ - [Pizza Shop] 
+ - [Brooklyn Bridge] <-- You are here
+ - [Pier] 
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% goto Pizza Shop
+>>>> What do you do? 
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% use subway card
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% show map
+>>>> What do you do? 
+--- Map ---
+ - [Subway] 
+ - [Bodega] 
+ - [Pizza Shop] <-- You are here
+ - [Brooklyn Bridge] 
+ - [Pier] 
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% get pizza
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% goto Bodega
+>>>> What do you do? 
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ You see a *coffee* machine nearby. It smells great!
+
+%% goto Pier
+>>>> What do you do? 
+[LOCATION: Pier]
+
+You are standing on a wooden pier overlooking the Hudson. Seagulls circle above. You see a *subway card* lying on the ground wedged in the planks.
+
+%% use subway card
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pier]
+
+You are standing on a wooden pier overlooking the Hudson. Seagulls circle above. You see a *subway card* lying on the ground wedged in the planks.
+
+%% get subway card
+>>>> What do you do? 
+-- You got [subway card] ! --
+
+[LOCATION: Pier]
+
+You are standing on a wooden pier overlooking the Hudson. Seagulls circle above. The waves lap against the pier. But not much else is happening...
+
+%% show inventory
+>>>> What do you do? 
+--- Inventory ---
+ - [pizza] 
+ - [photo] 
+ - [subway card] 
+
+
+
+[LOCATION: Pier]
+
+You are standing on a wooden pier overlooking the Hudson. Seagulls circle above. The waves lap against the pier. But not much else is happening...
+
+%% get subway card
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pier]
+
+You are standing on a wooden pier overlooking the Hudson. Seagulls circle above. The waves lap against the pier. But not much else is happening...
+
+%% goto Pizza Shop
+>>>> What do you do? 
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% goto Pier
+>>>> What do you do? 
+[LOCATION: Pier]
+
+You are standing on a wooden pier overlooking the Hudson. Seagulls circle above. The waves lap against the pier. But not much else is happening...
+
+%% get subway card
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pier]
+
+You are standing on a wooden pier overlooking the Hudson. Seagulls circle above. The waves lap against the pier. But not much else is happening...
+
+%% show inventory
+>>>> What do you do? 
+--- Inventory ---
+ - [pizza] 
+ - [photo] 
+ - [subway card] 
+
+
+
+[LOCATION: Pier]
+
+You are standing on a wooden pier overlooking the Hudson. Seagulls circle above. The waves lap against the pier. But not much else is happening...
+
+%% use pizza
+>>>> What do you do? 
+You eat the slice of pizza. Delicious! You feel satisfied.
+
+[LOCATION: Pier]
+
+You are standing on a wooden pier overlooking the Hudson. Seagulls circle above. The waves lap against the pier. But not much else is happening...
+
+%% show map
+>>>> What do you do? 
+--- Map ---
+ - [Subway] 
+ - [Bodega] 
+ - [Pizza Shop] 
+ - [Brooklyn Bridge] 
+ - [Pier] <-- You are here
+
+[LOCATION: Pier]
+
+You are standing on a wooden pier overlooking the Hudson. Seagulls circle above. The waves lap against the pier. But not much else is happening...
+
+%% goto Pier
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pier]
+
+You are standing on a wooden pier overlooking the Hudson. Seagulls circle above. The waves lap against the pier. But not much else is happening...
+
+%% use subway card
+>>>> What do you do? 
+You can't use that item here.
+
+[LOCATION: Pier]
+
+You are standing on a wooden pier overlooking the Hudson. Seagulls circle above. The waves lap against the pier. But not much else is happening...
+
+%% use subway card
+>>>> What do you do? 
+You can't use that item here.
+
+[LOCATION: Pier]
+
+You are standing on a wooden pier overlooking the Hudson. Seagulls circle above. The waves lap against the pier. But not much else is happening...
+
+%% use subway card
+>>>> What do you do? 
+You can't use that item here.
+
+[LOCATION: Pier]
+
+You are standing on a wooden pier overlooking the Hudson. Seagulls circle above. The waves lap against the pier. But not much else is happening...
+
+%% get pizza
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pier]
+
+You are standing on a wooden pier overlooking the Hudson. Seagulls circle above. The waves lap against the pier. But not much else is happening...
+
+%% help
+>>>> What do you do? 
+--- Available commands --- 
+ - [show inventory]
+ - [show map]
+ - [help]
+ - [goto Subway]
+ - [goto Bodega]
+ - [goto Pizza Shop]
+ - [goto Brooklyn Bridge]
+ - [use subway card]
+ - [use pizza]
+ - [use photo]
+
+
+
+[LOCATION: Pier]
+
+You are standing on a wooden pier overlooking the Hudson. Seagulls circle above. The waves lap against the pier. But not much else is happening...
+
+%% show map
+>>>> What do you do? 
+--- Map ---
+ - [Subway] 
+ - [Bodega] 
+ - [Pizza Shop] 
+ - [Brooklyn Bridge] 
+ - [Pier] <-- You are here
+
+[LOCATION: Pier]
+
+You are standing on a wooden pier overlooking the Hudson. Seagulls circle above. The waves lap against the pier. But not much else is happening...
+
+%% show map
+>>>> What do you do? 
+--- Map ---
+ - [Subway] 
+ - [Bodega] 
+ - [Pizza Shop] 
+ - [Brooklyn Bridge] 
+ - [Pier] <-- You are here
+
+[LOCATION: Pier]
+
+You are standing on a wooden pier overlooking the Hudson. Seagulls circle above. The waves lap against the pier. But not much else is happening...
+
+%% get pizza
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pier]
+
+You are standing on a wooden pier overlooking the Hudson. Seagulls circle above. The waves lap against the pier. But not much else is happening...
+
+%% show inventory
+>>>> What do you do? 
+--- Inventory ---
+ - [pizza] 
+ - [photo] 
+ - [subway card] 
+
+
+
+[LOCATION: Pier]
+
+You are standing on a wooden pier overlooking the Hudson. Seagulls circle above. The waves lap against the pier. But not much else is happening...
+
+%% goto Subway
+>>>> What do you do? 
+[LOCATION: Subway]
+
+You are in the subway, the sound of trains echoes in the tunnels.
+ You still need some things before you can go home though...
+
+%% help
+>>>> What do you do? 
+--- Available commands --- 
+ - [show inventory]
+ - [show map]
+ - [help]
+ - [goto Bodega]
+ - [goto Pizza Shop]
+ - [goto Brooklyn Bridge]
+ - [goto Pier]
+ - [use subway card]
+ - [use pizza]
+ - [use photo]
+
+
+
+[LOCATION: Subway]
+
+You are in the subway, the sound of trains echoes in the tunnels.
+ You still need some things before you can go home though...
+
+%% goto Subway
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Subway]
+
+You are in the subway, the sound of trains echoes in the tunnels.
+ You still need some things before you can go home though...
+
+%% goto Pizza Shop
+>>>> What do you do? 
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% get coffee
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% get coffee
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% use coffee
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% show inventory
+>>>> What do you do? 
+--- Inventory ---
+ - [pizza] 
+ - [photo] 
+ - [subway card] 
+
+
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% goto Brooklyn Bridge
+>>>> What do you do? 
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% get pizza
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% show map
+>>>> What do you do? 
+--- Map ---
+ - [Subway] 
+ - [Bodega] 
+ - [Pizza Shop] 
+ - [Brooklyn Bridge] <-- You are here
+ - [Pier] 
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% show map
+>>>> What do you do? 
+--- Map ---
+ - [Subway] 
+ - [Bodega] 
+ - [Pizza Shop] 
+ - [Brooklyn Bridge] <-- You are here
+ - [Pier] 
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% goto Pizza Shop
+>>>> What do you do? 
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% help
+>>>> What do you do? 
+--- Available commands --- 
+ - [show inventory]
+ - [show map]
+ - [help]
+ - [goto Subway]
+ - [goto Bodega]
+ - [goto Brooklyn Bridge]
+ - [goto Pier]
+ - [use subway card]
+ - [use pizza]
+ - [use photo]
+
+
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% use subway card
+>>>> What do you do? 
+You can't use that item here.
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% use subway card
+>>>> What do you do? 
+You can't use that item here.
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% get coffee
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% use coffee
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% get coffee
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% help
+>>>> What do you do? 
+--- Available commands --- 
+ - [show inventory]
+ - [show map]
+ - [help]
+ - [goto Subway]
+ - [goto Bodega]
+ - [goto Brooklyn Bridge]
+ - [goto Pier]
+ - [use subway card]
+ - [use pizza]
+ - [use photo]
+
+
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% get coffee
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% goto Pizza Shop
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% goto Brooklyn Bridge
+>>>> What do you do? 
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% get coffee
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% show map
+>>>> What do you do? 
+--- Map ---
+ - [Subway] 
+ - [Bodega] 
+ - [Pizza Shop] 
+ - [Brooklyn Bridge] <-- You are here
+ - [Pier] 
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% goto Bodega
+>>>> What do you do? 
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ You see a *coffee* machine nearby. It smells great!
+
+%% get coffee
+>>>> What do you do? 
+-- You got [coffee] ! --
+
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ The coffee machine is empty now.
+
+%% goto Subway
+>>>> What do you do? 
+[LOCATION: Subway]
+
+You are in the subway, the sound of trains echoes in the tunnels.
+ What an eventful trip! Time to head home.
+
+%% goto Bodega
+>>>> What do you do? 
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ The coffee machine is empty now.
+
+%% get subway card
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ The coffee machine is empty now.
+
+%% show map
+>>>> What do you do? 
+--- Map ---
+ - [Subway] 
+ - [Bodega] <-- You are here
+ - [Pizza Shop] 
+ - [Brooklyn Bridge] 
+ - [Pier] 
+
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ The coffee machine is empty now.
+
+%% goto Subway
+>>>> What do you do? 
+[LOCATION: Subway]
+
+You are in the subway, the sound of trains echoes in the tunnels.
+ What an eventful trip! Time to head home.
+
+%% get photo
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Subway]
+
+You are in the subway, the sound of trains echoes in the tunnels.
+ What an eventful trip! Time to head home.
+
+%% goto Bodega
+>>>> What do you do? 
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ The coffee machine is empty now.
+
+%% goto Bodega
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ The coffee machine is empty now.
+
+%% goto Brooklyn Bridge
+>>>> What do you do? 
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% help
+>>>> What do you do? 
+--- Available commands --- 
+ - [show inventory]
+ - [show map]
+ - [help]
+ - [goto Subway]
+ - [goto Bodega]
+ - [goto Pizza Shop]
+ - [goto Pier]
+ - [use subway card]
+ - [use pizza]
+ - [use coffee]
+ - [use photo]
+
+
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% get coffee
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% goto Pizza Shop
+>>>> What do you do? 
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% get subway card
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% show inventory
+>>>> What do you do? 
+--- Inventory ---
+ - [pizza] 
+ - [photo] 
+ - [subway card] 
+ - [coffee] 
+
+
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% use coffee
+>>>> What do you do? 
+You drink some of the coffee. You feel energized! But a little quesy...
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% use pizza
+>>>> What do you do? 
+You eat the slice of pizza. Delicious! You feel satisfied.
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% goto Subway
+>>>> What do you do? 
+[LOCATION: Subway]
+
+You are in the subway, the sound of trains echoes in the tunnels.
+ What an eventful trip! Time to head home.
+
+%% goto Subway
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Subway]
+
+You are in the subway, the sound of trains echoes in the tunnels.
+ What an eventful trip! Time to head home.
+
+%% goto Bodega
+>>>> What do you do? 
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ The coffee machine is empty now.
+
+%% use photo
+>>>> What do you do? 
+You look at the photo. It's a nice picture of the bridge, but nothing special.
+
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ The coffee machine is empty now.
+
+%% goto Subway
+>>>> What do you do? 
+[LOCATION: Subway]
+
+You are in the subway, the sound of trains echoes in the tunnels.
+ What an eventful trip! Time to head home.
+
+%% goto Pier
+>>>> What do you do? 
+[LOCATION: Pier]
+
+You are standing on a wooden pier overlooking the Hudson. Seagulls circle above. The waves lap against the pier. But not much else is happening...
+
+%% get photo
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pier]
+
+You are standing on a wooden pier overlooking the Hudson. Seagulls circle above. The waves lap against the pier. But not much else is happening...
+
+%% use subway card
+>>>> What do you do? 
+You can't use that item here.
+
+[LOCATION: Pier]
+
+You are standing on a wooden pier overlooking the Hudson. Seagulls circle above. The waves lap against the pier. But not much else is happening...
+
+%% goto Pier
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pier]
+
+You are standing on a wooden pier overlooking the Hudson. Seagulls circle above. The waves lap against the pier. But not much else is happening...
+
+%% get photo
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pier]
+
+You are standing on a wooden pier overlooking the Hudson. Seagulls circle above. The waves lap against the pier. But not much else is happening...
+
+%% get pizza
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Pier]
+
+You are standing on a wooden pier overlooking the Hudson. Seagulls circle above. The waves lap against the pier. But not much else is happening...
+
+%% use subway card
+>>>> What do you do? 
+You can't use that item here.
+
+[LOCATION: Pier]
+
+You are standing on a wooden pier overlooking the Hudson. Seagulls circle above. The waves lap against the pier. But not much else is happening...
+
+%% use subway card
+>>>> What do you do? 
+You can't use that item here.
+
+[LOCATION: Pier]
+
+You are standing on a wooden pier overlooking the Hudson. Seagulls circle above. The waves lap against the pier. But not much else is happening...
+
+%% goto Bodega
+>>>> What do you do? 
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ The coffee machine is empty now.
+
+%% use subway card
+>>>> What do you do? 
+You can't use that item here.
+
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ The coffee machine is empty now.
+
+%% use photo
+>>>> What do you do? 
+You look at the photo. It's a nice picture of the bridge, but nothing special.
+
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ The coffee machine is empty now.
+
+%% goto Pizza Shop
+>>>> What do you do? 
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% show inventory
+>>>> What do you do? 
+--- Inventory ---
+ - [pizza] 
+ - [photo] 
+ - [subway card] 
+ - [coffee] 
+
+
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% use coffee
+>>>> What do you do? 
+You drink some of the coffee. You feel energized! But a little quesy...
+
+[LOCATION: Pizza Shop]
+
+You are in a bustling pizza shop, the smell of fresh pizza baked fills the air.
+
+%% goto Subway
+>>>> What do you do? 
+[LOCATION: Subway]
+
+You are in the subway, the sound of trains echoes in the tunnels.
+ What an eventful trip! Time to head home.
+
+%% goto Brooklyn Bridge
+>>>> What do you do? 
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% show inventory
+>>>> What do you do? 
+--- Inventory ---
+ - [pizza] 
+ - [photo] 
+ - [subway card] 
+ - [coffee] 
+
+
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% get subway card
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% show map
+>>>> What do you do? 
+--- Map ---
+ - [Subway] 
+ - [Bodega] 
+ - [Pizza Shop] 
+ - [Brooklyn Bridge] <-- You are here
+ - [Pier] 
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% goto Brooklyn Bridge
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% goto Brooklyn Bridge
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Brooklyn Bridge]
+
+You are on the Brooklyn Bridge, with stunning views of the Manhattan skyline.
+ There's no one around.
+
+%% goto Bodega
+>>>> What do you do? 
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ The coffee machine is empty now.
+
+%% get coffee
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ The coffee machine is empty now.
+
+%% use pizza
+>>>> What do you do? 
+You eat the slice of pizza. Delicious! You feel satisfied.
+
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ The coffee machine is empty now.
+
+%% get pizza
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ The coffee machine is empty now.
+
+%% help
+>>>> What do you do? 
+--- Available commands --- 
+ - [show inventory]
+ - [show map]
+ - [help]
+ - [goto Subway]
+ - [goto Pizza Shop]
+ - [goto Brooklyn Bridge]
+ - [goto Pier]
+ - [use subway card]
+ - [use pizza]
+ - [use coffee]
+ - [use photo]
+
+
+
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ The coffee machine is empty now.
+
+%% get pizza
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ The coffee machine is empty now.
+
+%% use coffee
+>>>> What do you do? 
+You drink some of the coffee. You feel energized! But a little quesy...
+
+[LOCATION: Bodega]
+
+You are in a small bodega, shelves stocked with snacks and drinks.
+ The coffee machine is empty now.
+
+%% goto Subway
+>>>> What do you do? 
+[LOCATION: Subway]
+
+You are in the subway, the sound of trains echoes in the tunnels.
+ What an eventful trip! Time to head home.
+
+%% get pizza
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Subway]
+
+You are in the subway, the sound of trains echoes in the tunnels.
+ What an eventful trip! Time to head home.
+
+%% get pizza
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Subway]
+
+You are in the subway, the sound of trains echoes in the tunnels.
+ What an eventful trip! Time to head home.
+
+%% get subway card
+>>>> What do you do? 
+[INVALID COMMAND]
+
+[LOCATION: Subway]
+
+You are in the subway, the sound of trains echoes in the tunnels.
+ What an eventful trip! Time to head home.
+
+%% use subway card
+>>>> What do you do? 
+You swipe the subway card and board the train. You made it home!
+
+
+[YOU WIN!]
+
+%% [GAME FINISHED rc=0]

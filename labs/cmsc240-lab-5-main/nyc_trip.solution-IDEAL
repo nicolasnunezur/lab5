@@ -1,0 +1,10 @@
+goto Pier
+get subway card
+goto Pizza Shop
+get pizza
+goto Bodega
+get coffee
+goto Brooklyn Bridge
+use pizza
+goto Subway
+use subway card

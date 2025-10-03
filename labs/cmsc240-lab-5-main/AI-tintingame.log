@@ -1,0 +1,1125 @@
+[LOCATION: Museum]
+Welcome to Tintin in Egypt!
+Type 'help' to see available commands.
+%% %% [GAME START]
+%% get Key
+> [INVALID COMMAND]
+%% goto Pyramid
+> [LOCATION: Pyramid]
+You arrive at the Pyramid.
+The chamber seems empty. Maybe Snowy can help.
+%% use Fuel
+> [INVALID COMMAND]
+%% use Snowy
+> Snowy sniffs around and discovers a hidden Key in the sand!
+You see a [Key] here.
+%% goto Pyramid
+> [LOCATION: Pyramid]
+You arrive at the Pyramid.
+You see a [Key] here.
+%% use Key
+> [INVALID COMMAND]
+%% use Fuel
+> [INVALID COMMAND]
+%% get Papyri Box
+> [INVALID COMMAND]
+%% get Papyri Box
+> [INVALID COMMAND]
+%% goto Secret Base
+> [LOCATION: Secret Base]
+You arrive at the Secret Base.
+The base looks abandoned. Something might be hidden in this locked box.
+%% use Fuel
+> [INVALID COMMAND]
+%% use Snowy
+> [INVALID COMMAND]
+%% use Papyri Box
+> [INVALID COMMAND]
+%% use Fuel
+> [INVALID COMMAND]
+%% goto Secret Base
+> [LOCATION: Secret Base]
+You arrive at the Secret Base.
+The base looks abandoned. Something might be hidden in this locked box.
+%% goto Museum
+> [LOCATION: Museum]
+You arrive at the Museum.
+Ancient artifacts surround you, but nothing stands out.
+%% get Papyri Box
+> [INVALID COMMAND]
+%% show map
+> -- MAP --
+ - Pyramid
+ - Museum (*)
+ - Secret Base
+ - Aerodrome
+%% use Key
+> [INVALID COMMAND]
+%% use Fuel
+> [INVALID COMMAND]
+%% use Fuel
+> [INVALID COMMAND]
+%% show inventory
+> -- INVENTORY --
+[Snowy]
+%% goto Secret Base
+> [LOCATION: Secret Base]
+You arrive at the Secret Base.
+The base looks abandoned. Something might be hidden in this locked box.
+%% goto Secret Base
+> [LOCATION: Secret Base]
+You arrive at the Secret Base.
+The base looks abandoned. Something might be hidden in this locked box.
+%% show map
+> -- MAP --
+ - Pyramid
+ - Museum
+ - Secret Base (*)
+ - Aerodrome
+%% use Papyri Box
+> [INVALID COMMAND]
+%% get Key
+> [INVALID COMMAND]
+%% use Snowy
+> [INVALID COMMAND]
+%% help
+> [get]
+[goto]
+[use]
+[show inventory]
+[show map]
+[help]
+%% goto Aerodrome
+> [LOCATION: Aerodrome]
+You arrive at the Aerodrome.
+You see a [Fuel] here.
+%% get Key
+> [INVALID COMMAND]
+%% help
+> [get]
+[goto]
+[use]
+[show inventory]
+[show map]
+[help]
+%% help
+> [get]
+[goto]
+[use]
+[show inventory]
+[show map]
+[help]
+%% use Key
+> [INVALID COMMAND]
+%% get Key
+> [INVALID COMMAND]
+%% goto Pyramid
+> [LOCATION: Pyramid]
+You arrive at the Pyramid.
+You see a [Key] here.
+%% show map
+> -- MAP --
+ - Pyramid (*)
+ - Museum
+ - Secret Base
+ - Aerodrome
+%% goto Secret Base
+> [LOCATION: Secret Base]
+You arrive at the Secret Base.
+The base looks abandoned. Something might be hidden in this locked box.
+%% goto Museum
+> [LOCATION: Museum]
+You arrive at the Museum.
+Ancient artifacts surround you, but nothing stands out.
+%% use Snowy
+> [INVALID COMMAND]
+%% use Fuel
+> [INVALID COMMAND]
+%% use Fuel
+> [INVALID COMMAND]
+%% goto Secret Base
+> [LOCATION: Secret Base]
+You arrive at the Secret Base.
+The base looks abandoned. Something might be hidden in this locked box.
+%% goto Museum
+> [LOCATION: Museum]
+You arrive at the Museum.
+Ancient artifacts surround you, but nothing stands out.
+%% show inventory
+> -- INVENTORY --
+[Snowy]
+%% use Fuel
+> [INVALID COMMAND]
+%% use Snowy
+> [INVALID COMMAND]
+%% use Papyri Box
+> [INVALID COMMAND]
+%% get Papyri Box
+> [INVALID COMMAND]
+%% get Papyri Box
+> [INVALID COMMAND]
+%% show inventory
+> -- INVENTORY --
+[Snowy]
+%% use Fuel
+> [INVALID COMMAND]
+%% get Papyri Box
+> [INVALID COMMAND]
+%% show map
+> -- MAP --
+ - Pyramid
+ - Museum (*)
+ - Secret Base
+ - Aerodrome
+%% get Papyri Box
+> [INVALID COMMAND]
+%% use Snowy
+> [INVALID COMMAND]
+%% goto Pyramid
+> [LOCATION: Pyramid]
+You arrive at the Pyramid.
+You see a [Key] here.
+%% goto Pyramid
+> [LOCATION: Pyramid]
+You arrive at the Pyramid.
+You see a [Key] here.
+%% use Snowy
+> Snowy sniffs around and discovers a hidden Key in the sand!
+%% help
+> [get]
+[goto]
+[use]
+[show inventory]
+[show map]
+[help]
+%% show map
+> -- MAP --
+ - Pyramid (*)
+ - Museum
+ - Secret Base
+ - Aerodrome
+%% goto Secret Base
+> [LOCATION: Secret Base]
+You arrive at the Secret Base.
+The base looks abandoned. Something might be hidden in this locked box.
+%% help
+> [get]
+[goto]
+[use]
+[show inventory]
+[show map]
+[help]
+%% goto Pyramid
+> [LOCATION: Pyramid]
+You arrive at the Pyramid.
+You see a [Key] here.
+%% use Snowy
+> Snowy sniffs around and discovers a hidden Key in the sand!
+%% use Snowy
+> Snowy sniffs around and discovers a hidden Key in the sand!
+%% goto Secret Base
+> [LOCATION: Secret Base]
+You arrive at the Secret Base.
+The base looks abandoned. Something might be hidden in this locked box.
+%% help
+> [get]
+[goto]
+[use]
+[show inventory]
+[show map]
+[help]
+%% show inventory
+> -- INVENTORY --
+[Snowy]
+%% goto Aerodrome
+> [LOCATION: Aerodrome]
+You arrive at the Aerodrome.
+You see a [Fuel] here.
+%% use Snowy
+> [INVALID COMMAND]
+%% show map
+> -- MAP --
+ - Pyramid
+ - Museum
+ - Secret Base
+ - Aerodrome (*)
+%% use Papyri Box
+> [INVALID COMMAND]
+%% goto Pyramid
+> [LOCATION: Pyramid]
+You arrive at the Pyramid.
+You see a [Key] here.
+%% use Snowy
+> Snowy sniffs around and discovers a hidden Key in the sand!
+%% goto Secret Base
+> [LOCATION: Secret Base]
+You arrive at the Secret Base.
+The base looks abandoned. Something might be hidden in this locked box.
+%% use Key
+> [INVALID COMMAND]
+%% use Papyri Box
+> [INVALID COMMAND]
+%% goto Pyramid
+> [LOCATION: Pyramid]
+You arrive at the Pyramid.
+You see a [Key] here.
+%% help
+> [get]
+[goto]
+[use]
+[show inventory]
+[show map]
+[help]
+%% use Key
+> [INVALID COMMAND]
+%% goto Pyramid
+> [LOCATION: Pyramid]
+You arrive at the Pyramid.
+You see a [Key] here.
+%% show map
+> -- MAP --
+ - Pyramid (*)
+ - Museum
+ - Secret Base
+ - Aerodrome
+%% use Papyri Box
+> [INVALID COMMAND]
+%% goto Pyramid
+> [LOCATION: Pyramid]
+You arrive at the Pyramid.
+You see a [Key] here.
+%% show inventory
+> -- INVENTORY --
+[Snowy]
+%% goto Pyramid
+> [LOCATION: Pyramid]
+You arrive at the Pyramid.
+You see a [Key] here.
+%% get Papyri Box
+> [INVALID COMMAND]
+%% help
+> [get]
+[goto]
+[use]
+[show inventory]
+[show map]
+[help]
+%% get Papyri Box
+> [INVALID COMMAND]
+%% use Papyri Box
+> [INVALID COMMAND]
+%% help
+> [get]
+[goto]
+[use]
+[show inventory]
+[show map]
+[help]
+%% use Snowy
+> Snowy sniffs around and discovers a hidden Key in the sand!
+%% goto Secret Base
+> [LOCATION: Secret Base]
+You arrive at the Secret Base.
+The base looks abandoned. Something might be hidden in this locked box.
+%% get Key
+> [INVALID COMMAND]
+%% use Snowy
+> [INVALID COMMAND]
+%% use Snowy
+> [INVALID COMMAND]
+%% show inventory
+> -- INVENTORY --
+[Snowy]
+%% get Key
+> [INVALID COMMAND]
+%% get Papyri Box
+> [INVALID COMMAND]
+%% use Snowy
+> [INVALID COMMAND]
+%% help
+> [get]
+[goto]
+[use]
+[show inventory]
+[show map]
+[help]
+%% goto Pyramid
+> [LOCATION: Pyramid]
+You arrive at the Pyramid.
+You see a [Key] here.
+%% goto Secret Base
+> [LOCATION: Secret Base]
+You arrive at the Secret Base.
+The base looks abandoned. Something might be hidden in this locked box.
+%% show inventory
+> -- INVENTORY --
+[Snowy]
+%% show map
+> -- MAP --
+ - Pyramid
+ - Museum
+ - Secret Base (*)
+ - Aerodrome
+%% show map
+> -- MAP --
+ - Pyramid
+ - Museum
+ - Secret Base (*)
+ - Aerodrome
+%% goto Pyramid
+> [LOCATION: Pyramid]
+You arrive at the Pyramid.
+You see a [Key] here.
+%% show inventory
+> -- INVENTORY --
+[Snowy]
+%% get Papyri Box
+> [INVALID COMMAND]
+%% goto Aerodrome
+> [LOCATION: Aerodrome]
+You arrive at the Aerodrome.
+You see a [Fuel] here.
+%% use Key
+> [INVALID COMMAND]
+%% get Papyri Box
+> [INVALID COMMAND]
+%% get Fuel
+> You picked up the Fuel!
+%% use Snowy
+> [INVALID COMMAND]
+%% get Key
+> [INVALID COMMAND]
+%% goto Secret Base
+> [LOCATION: Secret Base]
+You arrive at the Secret Base.
+The base looks abandoned. Something might be hidden in this locked box.
+%% use Papyri Box
+> [INVALID COMMAND]
+%% goto Secret Base
+> [LOCATION: Secret Base]
+You arrive at the Secret Base.
+The base looks abandoned. Something might be hidden in this locked box.
+%% use Key
+> [INVALID COMMAND]
+%% goto Museum
+> [LOCATION: Museum]
+You arrive at the Museum.
+Ancient artifacts surround you, but nothing stands out.
+%% use Papyri Box
+> [INVALID COMMAND]
+%% get Fuel
+> [INVALID COMMAND]
+%% goto Secret Base
+> [LOCATION: Secret Base]
+You arrive at the Secret Base.
+The base looks abandoned. Something might be hidden in this locked box.
+%% use Papyri Box
+> [INVALID COMMAND]
+%% use Snowy
+> [INVALID COMMAND]
+%% help
+> [get]
+[goto]
+[use]
+[show inventory]
+[show map]
+[help]
+%% get Key
+> [INVALID COMMAND]
+%% use Key
+> [INVALID COMMAND]
+%% get Key
+> [INVALID COMMAND]
+%% get Papyri Box
+> [INVALID COMMAND]
+%% get Fuel
+> [INVALID COMMAND]
+%% use Papyri Box
+> [INVALID COMMAND]
+%% goto Museum
+> [LOCATION: Museum]
+You arrive at the Museum.
+Ancient artifacts surround you, but nothing stands out.
+%% get Papyri Box
+> [INVALID COMMAND]
+%% show map
+> -- MAP --
+ - Pyramid
+ - Museum (*)
+ - Secret Base
+ - Aerodrome
+%% goto Pyramid
+> [LOCATION: Pyramid]
+You arrive at the Pyramid.
+You see a [Key] here.
+%% goto Museum
+> [LOCATION: Museum]
+You arrive at the Museum.
+Ancient artifacts surround you, but nothing stands out.
+%% get Fuel
+> [INVALID COMMAND]
+%% show map
+> -- MAP --
+ - Pyramid
+ - Museum (*)
+ - Secret Base
+ - Aerodrome
+%% goto Museum
+> [LOCATION: Museum]
+You arrive at the Museum.
+Ancient artifacts surround you, but nothing stands out.
+%% use Key
+> [INVALID COMMAND]
+%% goto Pyramid
+> [LOCATION: Pyramid]
+You arrive at the Pyramid.
+You see a [Key] here.
+%% goto Pyramid
+> [LOCATION: Pyramid]
+You arrive at the Pyramid.
+You see a [Key] here.
+%% goto Museum
+> [LOCATION: Museum]
+You arrive at the Museum.
+Ancient artifacts surround you, but nothing stands out.
+%% get Papyri Box
+> [INVALID COMMAND]
+%% show inventory
+> -- INVENTORY --
+[Snowy]
+[Fuel]
+%% goto Pyramid
+> [LOCATION: Pyramid]
+You arrive at the Pyramid.
+You see a [Key] here.
+%% goto Pyramid
+> [LOCATION: Pyramid]
+You arrive at the Pyramid.
+You see a [Key] here.
+%% get Fuel
+> [INVALID COMMAND]
+%% goto Aerodrome
+> [LOCATION: Aerodrome]
+You arrive at the Aerodrome.
+The aerodrome is empty. But there is a plane waiting nearby.
+%% goto Secret Base
+> [LOCATION: Secret Base]
+You arrive at the Secret Base.
+The base looks abandoned. Something might be hidden in this locked box.
+%% goto Museum
+> [LOCATION: Museum]
+You arrive at the Museum.
+Ancient artifacts surround you, but nothing stands out.
+%% show inventory
+> -- INVENTORY --
+[Snowy]
+[Fuel]
+%% show map
+> -- MAP --
+ - Pyramid
+ - Museum (*)
+ - Secret Base
+ - Aerodrome
+%% get Key
+> [INVALID COMMAND]
+%% goto Aerodrome
+> [LOCATION: Aerodrome]
+You arrive at the Aerodrome.
+The aerodrome is empty. But there is a plane waiting nearby.
+%% goto Pyramid
+> [LOCATION: Pyramid]
+You arrive at the Pyramid.
+You see a [Key] here.
+%% goto Pyramid
+> [LOCATION: Pyramid]
+You arrive at the Pyramid.
+You see a [Key] here.
+%% goto Aerodrome
+> [LOCATION: Aerodrome]
+You arrive at the Aerodrome.
+The aerodrome is empty. But there is a plane waiting nearby.
+%% get Key
+> [INVALID COMMAND]
+%% show inventory
+> -- INVENTORY --
+[Snowy]
+[Fuel]
+%% use Key
+> [INVALID COMMAND]
+%% help
+> [get]
+[goto]
+[use]
+[show inventory]
+[show map]
+[help]
+%% goto Secret Base
+> [LOCATION: Secret Base]
+You arrive at the Secret Base.
+The base looks abandoned. Something might be hidden in this locked box.
+%% goto Pyramid
+> [LOCATION: Pyramid]
+You arrive at the Pyramid.
+You see a [Key] here.
+%% goto Pyramid
+> [LOCATION: Pyramid]
+You arrive at the Pyramid.
+You see a [Key] here.
+%% get Papyri Box
+> [INVALID COMMAND]
+%% show inventory
+> -- INVENTORY --
+[Snowy]
+[Fuel]
+%% get Key
+> You picked up the Key!
+%% use Papyri Box
+> [INVALID COMMAND]
+%% use Key
+> [INVALID COMMAND]
+%% goto Secret Base
+> [LOCATION: Secret Base]
+You arrive at the Secret Base.
+The base looks abandoned. Something might be hidden in this locked box.
+%% goto Museum
+> [LOCATION: Museum]
+You arrive at the Museum.
+Ancient artifacts surround you, but nothing stands out.
+%% goto Museum
+> [LOCATION: Museum]
+You arrive at the Museum.
+Ancient artifacts surround you, but nothing stands out.
+%% use Papyri Box
+> [INVALID COMMAND]
+%% use Key
+> [INVALID COMMAND]
+%% show map
+> -- MAP --
+ - Pyramid
+ - Museum (*)
+ - Secret Base
+ - Aerodrome
+%% get Papyri Box
+> [INVALID COMMAND]
+%% goto Pyramid
+> [LOCATION: Pyramid]
+You arrive at the Pyramid.
+The chamber seems empty. Maybe Snowy can help.
+%% get Papyri Box
+> [INVALID COMMAND]
+%% get Key
+> [INVALID COMMAND]
+%% get Fuel
+> [INVALID COMMAND]
+%% get Fuel
+> [INVALID COMMAND]
+%% help
+> [get]
+[goto]
+[use]
+[show inventory]
+[show map]
+[help]
+%% help
+> [get]
+[goto]
+[use]
+[show inventory]
+[show map]
+[help]
+%% goto Museum
+> [LOCATION: Museum]
+You arrive at the Museum.
+Ancient artifacts surround you, but nothing stands out.
+%% use Papyri Box
+> [INVALID COMMAND]
+%% help
+> [get]
+[goto]
+[use]
+[show inventory]
+[show map]
+[help]
+%% get Fuel
+> [INVALID COMMAND]
+%% help
+> [get]
+[goto]
+[use]
+[show inventory]
+[show map]
+[help]
+%% show map
+> -- MAP --
+ - Pyramid
+ - Museum (*)
+ - Secret Base
+ - Aerodrome
+%% show inventory
+> -- INVENTORY --
+[Snowy]
+[Fuel]
+[Key]
+%% goto Secret Base
+> [LOCATION: Secret Base]
+You arrive at the Secret Base.
+The base looks abandoned. Something might be hidden in this locked box.
+%% goto Secret Base
+> [LOCATION: Secret Base]
+You arrive at the Secret Base.
+The base looks abandoned. Something might be hidden in this locked box.
+%% use Snowy
+> [INVALID COMMAND]
+%% goto Museum
+> [LOCATION: Museum]
+You arrive at the Museum.
+Ancient artifacts surround you, but nothing stands out.
+%% use Key
+> [INVALID COMMAND]
+%% show map
+> -- MAP --
+ - Pyramid
+ - Museum (*)
+ - Secret Base
+ - Aerodrome
+%% goto Secret Base
+> [LOCATION: Secret Base]
+You arrive at the Secret Base.
+The base looks abandoned. Something might be hidden in this locked box.
+%% get Papyri Box
+> [INVALID COMMAND]
+%% show inventory
+> -- INVENTORY --
+[Snowy]
+[Fuel]
+[Key]
+%% use Papyri Box
+> [INVALID COMMAND]
+%% get Fuel
+> [INVALID COMMAND]
+%% get Fuel
+> [INVALID COMMAND]
+%% use Snowy
+> [INVALID COMMAND]
+%% use Snowy
+> [INVALID COMMAND]
+%% get Key
+> [INVALID COMMAND]
+%% get Papyri Box
+> [INVALID COMMAND]
+%% goto Aerodrome
+> [LOCATION: Aerodrome]
+You arrive at the Aerodrome.
+The aerodrome is empty. But there is a plane waiting nearby.
+%% goto Pyramid
+> [LOCATION: Pyramid]
+You arrive at the Pyramid.
+The chamber seems empty. Maybe Snowy can help.
+%% get Fuel
+> [INVALID COMMAND]
+%% goto Aerodrome
+> [LOCATION: Aerodrome]
+You arrive at the Aerodrome.
+The aerodrome is empty. But there is a plane waiting nearby.
+%% show map
+> -- MAP --
+ - Pyramid
+ - Museum
+ - Secret Base
+ - Aerodrome (*)
+%% help
+> [get]
+[goto]
+[use]
+[show inventory]
+[show map]
+[help]
+%% goto Aerodrome
+> [LOCATION: Aerodrome]
+You arrive at the Aerodrome.
+The aerodrome is empty. But there is a plane waiting nearby.
+%% show map
+> -- MAP --
+ - Pyramid
+ - Museum
+ - Secret Base
+ - Aerodrome (*)
+%% get Fuel
+> [INVALID COMMAND]
+%% help
+> [get]
+[goto]
+[use]
+[show inventory]
+[show map]
+[help]
+%% get Key
+> [INVALID COMMAND]
+%% get Papyri Box
+> [INVALID COMMAND]
+%% use Key
+> [INVALID COMMAND]
+%% show map
+> -- MAP --
+ - Pyramid
+ - Museum
+ - Secret Base
+ - Aerodrome (*)
+%% goto Pyramid
+> [LOCATION: Pyramid]
+You arrive at the Pyramid.
+The chamber seems empty. Maybe Snowy can help.
+%% use Key
+> [INVALID COMMAND]
+%% goto Aerodrome
+> [LOCATION: Aerodrome]
+You arrive at the Aerodrome.
+The aerodrome is empty. But there is a plane waiting nearby.
+%% use Papyri Box
+> [INVALID COMMAND]
+%% get Key
+> [INVALID COMMAND]
+%% use Snowy
+> [INVALID COMMAND]
+%% get Fuel
+> [INVALID COMMAND]
+%% show map
+> -- MAP --
+ - Pyramid
+ - Museum
+ - Secret Base
+ - Aerodrome (*)
+%% goto Aerodrome
+> [LOCATION: Aerodrome]
+You arrive at the Aerodrome.
+The aerodrome is empty. But there is a plane waiting nearby.
+%% show map
+> -- MAP --
+ - Pyramid
+ - Museum
+ - Secret Base
+ - Aerodrome (*)
+%% get Fuel
+> [INVALID COMMAND]
+%% help
+> [get]
+[goto]
+[use]
+[show inventory]
+[show map]
+[help]
+%% get Papyri Box
+> [INVALID COMMAND]
+%% show map
+> -- MAP --
+ - Pyramid
+ - Museum
+ - Secret Base
+ - Aerodrome (*)
+%% show map
+> -- MAP --
+ - Pyramid
+ - Museum
+ - Secret Base
+ - Aerodrome (*)
+%% show map
+> -- MAP --
+ - Pyramid
+ - Museum
+ - Secret Base
+ - Aerodrome (*)
+%% get Key
+> [INVALID COMMAND]
+%% help
+> [get]
+[goto]
+[use]
+[show inventory]
+[show map]
+[help]
+%% goto Museum
+> [LOCATION: Museum]
+You arrive at the Museum.
+Ancient artifacts surround you, but nothing stands out.
+%% use Fuel
+> [INVALID COMMAND]
+%% show inventory
+> -- INVENTORY --
+[Snowy]
+[Fuel]
+[Key]
+%% show inventory
+> -- INVENTORY --
+[Snowy]
+[Fuel]
+[Key]
+%% get Key
+> [INVALID COMMAND]
+%% show inventory
+> -- INVENTORY --
+[Snowy]
+[Fuel]
+[Key]
+%% show map
+> -- MAP --
+ - Pyramid
+ - Museum (*)
+ - Secret Base
+ - Aerodrome
+%% get Fuel
+> [INVALID COMMAND]
+%% get Papyri Box
+> [INVALID COMMAND]
+%% goto Aerodrome
+> [LOCATION: Aerodrome]
+You arrive at the Aerodrome.
+The aerodrome is empty. But there is a plane waiting nearby.
+%% goto Secret Base
+> [LOCATION: Secret Base]
+You arrive at the Secret Base.
+The base looks abandoned. Something might be hidden in this locked box.
+%% use Papyri Box
+> [INVALID COMMAND]
+%% use Papyri Box
+> [INVALID COMMAND]
+%% use Snowy
+> [INVALID COMMAND]
+%% get Key
+> [INVALID COMMAND]
+%% goto Secret Base
+> [LOCATION: Secret Base]
+You arrive at the Secret Base.
+The base looks abandoned. Something might be hidden in this locked box.
+%% get Key
+> [INVALID COMMAND]
+%% goto Museum
+> [LOCATION: Museum]
+You arrive at the Museum.
+Ancient artifacts surround you, but nothing stands out.
+%% goto Pyramid
+> [LOCATION: Pyramid]
+You arrive at the Pyramid.
+The chamber seems empty. Maybe Snowy can help.
+%% show map
+> -- MAP --
+ - Pyramid (*)
+ - Museum
+ - Secret Base
+ - Aerodrome
+%% goto Museum
+> [LOCATION: Museum]
+You arrive at the Museum.
+Ancient artifacts surround you, but nothing stands out.
+%% show map
+> -- MAP --
+ - Pyramid
+ - Museum (*)
+ - Secret Base
+ - Aerodrome
+%% get Papyri Box
+> [INVALID COMMAND]
+%% get Papyri Box
+> [INVALID COMMAND]
+%% show map
+> -- MAP --
+ - Pyramid
+ - Museum (*)
+ - Secret Base
+ - Aerodrome
+%% help
+> [get]
+[goto]
+[use]
+[show inventory]
+[show map]
+[help]
+%% use Papyri Box
+> [INVALID COMMAND]
+%% get Key
+> [INVALID COMMAND]
+%% goto Pyramid
+> [LOCATION: Pyramid]
+You arrive at the Pyramid.
+The chamber seems empty. Maybe Snowy can help.
+%% goto Aerodrome
+> [LOCATION: Aerodrome]
+You arrive at the Aerodrome.
+The aerodrome is empty. But there is a plane waiting nearby.
+%% get Papyri Box
+> [INVALID COMMAND]
+%% show inventory
+> -- INVENTORY --
+[Snowy]
+[Fuel]
+[Key]
+%% use Key
+> [INVALID COMMAND]
+%% show inventory
+> -- INVENTORY --
+[Snowy]
+[Fuel]
+[Key]
+%% goto Pyramid
+> [LOCATION: Pyramid]
+You arrive at the Pyramid.
+The chamber seems empty. Maybe Snowy can help.
+%% goto Aerodrome
+> [LOCATION: Aerodrome]
+You arrive at the Aerodrome.
+The aerodrome is empty. But there is a plane waiting nearby.
+%% goto Secret Base
+> [LOCATION: Secret Base]
+You arrive at the Secret Base.
+The base looks abandoned. Something might be hidden in this locked box.
+%% use Papyri Box
+> [INVALID COMMAND]
+%% get Fuel
+> [INVALID COMMAND]
+%% get Papyri Box
+> [INVALID COMMAND]
+%% goto Pyramid
+> [LOCATION: Pyramid]
+You arrive at the Pyramid.
+The chamber seems empty. Maybe Snowy can help.
+%% show inventory
+> -- INVENTORY --
+[Snowy]
+[Fuel]
+[Key]
+%% use Fuel
+> [INVALID COMMAND]
+%% goto Pyramid
+> [LOCATION: Pyramid]
+You arrive at the Pyramid.
+The chamber seems empty. Maybe Snowy can help.
+%% goto Secret Base
+> [LOCATION: Secret Base]
+You arrive at the Secret Base.
+The base looks abandoned. Something might be hidden in this locked box.
+%% show map
+> -- MAP --
+ - Pyramid
+ - Museum
+ - Secret Base (*)
+ - Aerodrome
+%% use Fuel
+> [INVALID COMMAND]
+%% help
+> [get]
+[goto]
+[use]
+[show inventory]
+[show map]
+[help]
+%% goto Secret Base
+> [LOCATION: Secret Base]
+You arrive at the Secret Base.
+The base looks abandoned. Something might be hidden in this locked box.
+%% show inventory
+> -- INVENTORY --
+[Snowy]
+[Fuel]
+[Key]
+%% get Papyri Box
+> [INVALID COMMAND]
+%% show map
+> -- MAP --
+ - Pyramid
+ - Museum
+ - Secret Base (*)
+ - Aerodrome
+%% goto Pyramid
+> [LOCATION: Pyramid]
+You arrive at the Pyramid.
+The chamber seems empty. Maybe Snowy can help.
+%% goto Aerodrome
+> [LOCATION: Aerodrome]
+You arrive at the Aerodrome.
+The aerodrome is empty. But there is a plane waiting nearby.
+%% goto Pyramid
+> [LOCATION: Pyramid]
+You arrive at the Pyramid.
+The chamber seems empty. Maybe Snowy can help.
+%% goto Secret Base
+> [LOCATION: Secret Base]
+You arrive at the Secret Base.
+The base looks abandoned. Something might be hidden in this locked box.
+%% show map
+> -- MAP --
+ - Pyramid
+ - Museum
+ - Secret Base (*)
+ - Aerodrome
+%% use Key
+> You used the Key to open a locked chest. Inside is the Papyri Box!
+You see a [Papyri Box] inside the unlocked box.
+%% get Papyri Box
+> You picked up the Papyri Box!
+%% use Papyri Box
+> [INVALID COMMAND]
+%% get Key
+> [INVALID COMMAND]
+%% use Papyri Box
+> [INVALID COMMAND]
+%% goto Museum
+> [LOCATION: Museum]
+You arrive at the Museum.
+Ancient artifacts surround you, but nothing stands out.
+%% get Key
+> [INVALID COMMAND]
+%% use Fuel
+> [INVALID COMMAND]
+%% help
+> [get]
+[goto]
+[use]
+[show inventory]
+[show map]
+[help]
+%% goto Museum
+> [LOCATION: Museum]
+You arrive at the Museum.
+Ancient artifacts surround you, but nothing stands out.
+%% show map
+> -- MAP --
+ - Pyramid
+ - Museum (*)
+ - Secret Base
+ - Aerodrome
+%% goto Pyramid
+> [LOCATION: Pyramid]
+You arrive at the Pyramid.
+The chamber seems empty. Maybe Snowy can help.
+%% goto Secret Base
+> [LOCATION: Secret Base]
+You arrive at the Secret Base.
+The base looks abandoned. Something might be hidden in this locked box.
+%% get Fuel
+> [INVALID COMMAND]
+%% use Fuel
+> [INVALID COMMAND]
+%% use Papyri Box
+> [INVALID COMMAND]
+%% use Fuel
+> [INVALID COMMAND]
+%% use Papyri Box
+> [INVALID COMMAND]
+%% show map
+> -- MAP --
+ - Pyramid
+ - Museum
+ - Secret Base (*)
+ - Aerodrome
+%% goto Aerodrome
+> [LOCATION: Aerodrome]
+You arrive at the Aerodrome.
+The aerodrome is empty. But there is a plane waiting nearby.
+%% get Key
+> [INVALID COMMAND]
+%% get Fuel
+> [INVALID COMMAND]
+%% use Fuel
+> You fuel the plane and escape with all treasures!
+[YOU WIN!]
+
+%% [GAME FINISHED rc=0]

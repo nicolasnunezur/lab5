@@ -1,0 +1,20 @@
+help
+show inventory
+show map
+
+goto beach
+goto jungle
+goto cave
+goto volcano
+
+get palm leaf
+get wood
+get rope
+get stone
+get boat
+
+use palm leaf
+use wood
+use rope
+use stone
+use boat

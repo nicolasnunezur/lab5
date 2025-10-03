@@ -1,0 +1,53 @@
+goto Pizza Shop
+get pizza
+goto Brooklyn Bridge
+goto Bodega
+goto Pier
+goto Subway
+goto Pizza Shop
+goto Subway
+use pizza
+goto Brooklyn Bridge
+use pizza
+goto Bodega
+use photo
+goto Subway
+goto Brooklyn Bridge
+use photo
+goto Brooklyn Bridge
+goto Pizza Shop
+goto Subway
+goto Bodega
+use photo
+use pizza
+use photo
+goto Pier
+get subway card
+goto Pizza Shop
+goto Pier
+use pizza
+use subway card
+goto Subway
+goto Brooklyn Bridge
+use subway card
+goto Bodega
+get coffee
+goto Subway
+goto Bodega
+goto Subway
+use coffee
+use pizza
+goto Subway
+goto Bodega
+use photo
+goto Subway
+goto Pier
+use subway card
+use subway card
+goto Pizza Shop
+goto Subway
+goto Brooklyn Bridge
+use pizza
+use coffee
+goto Subway
+use subway card

@@ -1,0 +1,17 @@
+help
+show map
+show inventory
+
+goto Pyramid
+goto Museum
+goto Secret Base
+goto Aerodrome
+
+get Key
+get Papyri Box
+get Fuel
+
+use Snowy
+use Key
+use Papyri Box
+use Fuel
