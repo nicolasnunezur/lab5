@@ -60,7 +60,7 @@ int main(int argc, char* argv[]) {
         for (string out : chunk.outputs) {
             if (out.find("[INVALID COMMAND]") != string::npos) {
                 invalid = true;
-                break;
+                continue;
             }
             if (out.find("[LOCATION: ") != string::npos) {
                 size_t start = out.find("[LOCATION: ") + 11;
@@ -111,9 +111,6 @@ int main(int argc, char* argv[]) {
             }
 
             if (location == "jungle" && inventory.count("wood")) {
-                continue;
-            }
-            if (location == "beach" && inventory.count("palm leaf")) {
                 continue;
             }
             if (location == "cave" && inventory.count("rope")) {

@@ -1,7 +1,7 @@
-get wood
-get palm leaf
 get rope
+get wood
 get stone
-use stone
-use palm leaf
 use wood
+use rope
+use stone
+get palm leaf
